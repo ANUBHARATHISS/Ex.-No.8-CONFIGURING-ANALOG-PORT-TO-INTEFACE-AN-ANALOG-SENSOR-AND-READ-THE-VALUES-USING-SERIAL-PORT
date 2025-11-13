@@ -489,10 +489,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="1142" height="1280" alt="image" src="https://github.com/user-attachments/assets/a6f30892-e545-4c74-b665-e949e01d952f" />
 
 
-
 ## Result :
-
-
+Interfacing a push button and interrupt genrateion is simulated using proteus
 
 
 ****
